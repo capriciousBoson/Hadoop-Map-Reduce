@@ -24,5 +24,5 @@ If you haven't set up Hadoop yet, follow these steps:
    tar -xzvf hadoop-3.3.2.tar.gz
    mv hadoop-3.3.2 /path/to/hadoop
 
-'''export JAVA_HOME=/path/to/java'''
+export JAVA_HOME=/path/to/java```
 
